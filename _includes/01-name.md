@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Charles Verdon
+https://www.linkedin.com/in/charlesverdon/
+## Where the fun begins
+Are you ready?
